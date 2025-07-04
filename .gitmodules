@@ -1,0 +1,3 @@
+[submodule "submodule-git-Leela"]
+	path = submodule-git-Leela
+	url = https://github.com/Y5k1/submodule-git-Leela.git
